@@ -7,9 +7,9 @@ $fn = $_REQUEST["first"];
 $ln = $_REQUEST["last"];
 $st = $_REQUEST["state"];
 if (bad($fn) || bad($ln) || bad($st)) {
-    $fn = "Matthew";
-    $ln = "Youd";
-    $st = "tas";
+    header("Content-Type: application/json");
+header("HTTP/1.1 300 INVALID DATA");
+echo json_encode("{response:\"Invalid Data\"}", JSON_PRETTY_PRINT);
 }
 
 $username = "Z2lsaWY0MjE1M0BnYWxvdHYuY29t";
