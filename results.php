@@ -8,7 +8,7 @@ foreach($results as $info)
   $type = $info['type'];
   if($type == "cr")
    { $type = "Criminal"; }
-if($type == "cr")
+if($type == "cv")
    { $type = "Civil"; }
 
   $records = $info['count'];
@@ -61,7 +61,7 @@ if($type == "cr")
   
   <div class="container container-table">
       <h2 class="mbr-section-title mbr-fonts-style align-center pb-3 display-2">Results</h2>
-      <h3 class="mbr-section-subtitle mbr-fonts-style align-center pb-5 mbr-light display-7">"<em>Refine results by searching for a middle name</em>"</h3>
+      <h3 class="mbr-section-subtitle mbr-fonts-style align-center pb-5 mbr-light display-7">"<em>Refine results by searching for a middle name.<br><br>Warning, sex offenders sometimes have the information hidden and records can not be found to "get this", protect the victims names. - for this reason, please try on <a href="https://trove.nla.gov.au/search/advanced/category/websites?l-site=mako.org.au&keyword=<?php echo $fn."+".$ln; ?>">MAKO.org.au</a> and <a href="https://aussiesexoffenders.wordpress.com/?s=<?php echo $fn."+".$ln; ?>">AussieSexOffenders</a> websites.</em>"</h3>
       <div class="table-wrapper">
         <div class="container">
           <div class="row search">
