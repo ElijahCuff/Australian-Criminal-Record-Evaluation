@@ -3,10 +3,11 @@
 $fn = $_REQUEST["first"];
 $ln = $_REQUEST["last"];
 $st = $_REQUEST["state"];
+$api = $_REQUEST["api"];
 if (bad($fn) || bad($ln) || bad($st)) {
-    $fn = "Matthew";
-    $ln = "Youd";
-    $st = "tas";
+    $fn = "John";
+    $ln = "Citizen";
+    $st = "VIC";
 }
 
 $username = "Z2lsaWY0MjE1M0BnYWxvdHYuY29t";
@@ -48,6 +49,14 @@ if ($pages > 1) {
 $readPages = $pageNow - 1;
 $resultsloaded = count($output);
 $missedResults = $results - $resultsloaded;
+
+if($api == "true")
+{
+header("Content-Type: application/json");
+header("HTTP/1.1 200 OK");
+echo json_encode($output, JSON_PRETTY_PRINT);
+}
+
 
 endConnection();
 
