@@ -4,7 +4,7 @@
       
 Demo,   https://scanner.ga/cda/lookup.html      
 
-Search 27,210,372 Criminal and Civil Court List Records that have been collected for several from official daily court list's.
+Search 27,210,372 Criminal and Civil Court List Records that have been collected for several years from official daily court list's.
  
     
 ## How It Works ?    
