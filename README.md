@@ -1,7 +1,9 @@
 # Australian Criminal Record Evaluation
 ### Evaluate people's criminal record quickly.   
 > get a quick idea of how involved with the law someone is by collecting the number of court appearances in the Australian court records database.
-       
+      
+Demo,   https://scanner.ga/cda/lookup.html      
+
 Search 27,210,372 Criminal and Civil Court List Records that have been collected for several from official daily court list's.
  
     
