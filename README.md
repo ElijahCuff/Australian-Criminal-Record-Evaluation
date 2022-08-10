@@ -20,7 +20,10 @@ The URL's are obfuscated in base64 to stop the CDA website from scraping GitHub 
   
 The idea is simple, automatically log-in to a pre-registered burner account, allow free searching - possibly buy the subscription and allow full details for free.     
   
-Other Useful Resources,     
+---
+   
+
+## Other Useful Resources,     
 Criminal Records,         
 1- http://www.austlii.edu.au/cgi-bin/sinosrch.cgi?method=any&query=First+Last
 
