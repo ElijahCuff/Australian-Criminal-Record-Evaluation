@@ -20,17 +20,17 @@ The URL's are obfuscated in base64 to stop the CDA website from scraping GitHub 
   
 The idea is simple, automatically log-in to a pre-registered burner account, allow free searching - possibly buy the subscription and allow full details for free.     
   
-Other Useful Resources,
-Criminal Records,.    
+Other Useful Resources,     
+Criminal Records,         
 1- http://www.austlii.edu.au/cgi-bin/sinosrch.cgi?method=any&query=First+Last
 
-Sex Offender Records,.    
+Sex Offender Records,     
 1- https://trove.nla.gov.au/search/advanced/category/websites?l-site=mako.org.au&keyword=First+Last
 
 2- https://aussiesexoffenders.wordpress.com/?s=First+Last
 
-Other Records,.   
-Public Comments and Posts,.   
+Other Records,    
+Public Comments and Posts,      
 1 - https://www.google.com.au/search?q=First+Last+State+site%3Afacebook.com+OR+site%3Atwitter.com+OR+site%3Ainstagram.com
 
 Facial Recognition,.   
