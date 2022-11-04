@@ -5,7 +5,9 @@
 Demo,   https://scanner.ga/cda/lookup.html      
 
 Search 27,210,372 Criminal and Civil Court List Records that have been collected for several years from official daily court list's.
- 
+    
+Create a FREE account first if you do not yet have one: https://signup.heroku.com/ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)    
+
     
 ## How It Works ?    
 - Court's publish daily court hearings on their websites, some are limited with personal information while others publicly disclose the case's details.    
