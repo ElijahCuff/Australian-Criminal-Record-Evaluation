@@ -10,7 +10,7 @@ if (bad($fn) || bad($ln) || bad($st)) {
     $st = "VIC";
 }
 
-$username = "Z2lsaWY0MjE1M0BnYWxvdHYuY29t";
+$username = "dGlub3IyNDExNkBoYXJjaXR5LmNvbQ==";
 $password = "VmFnZW5lMzIx";
 
 $login_url = "aHR0cHM6Ly9jZGEuY291cnRkYXRhLmNvbS5hdS9sb2dpbg==";
