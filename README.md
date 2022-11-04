@@ -2,7 +2,7 @@
 ### Evaluate people's criminal record quickly.   
 > get a quick idea of how involved with the law someone is by collecting the number of court appearances in the Australian court records database.
       
-Demo,   https://scanner.ga/cda/lookup.html      
+Demo,   https://crimsearch.herokuapp.com/      
 
 Search 27,210,372 Criminal and Civil Court List Records that have been collected for several years from official daily court list's.
     
